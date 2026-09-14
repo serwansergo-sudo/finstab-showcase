@@ -16,6 +16,12 @@ FinStab was built to turn financial inputs into structured records and a usable 
 - server-side API integration;
 - browser-based interface.
 
+## Interface
+
+![FinStab authentication screen](assets/finstab-login.png)
+
+The screenshot was captured from an isolated demo configuration with blank credentials and no connection to the private production database.
+
 ## Technology
 React · TypeScript · Vite · Express · Supabase
 

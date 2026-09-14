@@ -1,4 +1,5 @@
-﻿*
+*
 !.gitignore
 !README.md
-
+!assets/
+!assets/finstab-login.png
